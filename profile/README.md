@@ -10,7 +10,7 @@ Our repositories include dashboards, backends, automation systems, integrations,
 ### ✅ **About the Organization**
 
 - **Name:** Shopperr Org  
-- **Managed By:** [@alaiy-tech](https://github.com/alaiy-tech)
+- **Managed By:** [@shopperr-tech](https://github.com/alaiy-tech)
 - **Website:** https://shopperr.in  
 - **Industry:** Commerce / Supply Chain / SaaS Solutions  
 - **Open Source Contributions:** Select repositories are open to the community for collaboration.
@@ -21,7 +21,7 @@ Our repositories include dashboards, backends, automation systems, integrations,
 
 For partnerships, technical inquiries, or support:
 
-- **Email:** mail@alaiy.com  
+- **Email:** ashutosh.singh@shoperr.in  
 - **Operations / Platform Support:** admin@shopperr.in
 
 ---
